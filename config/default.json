@@ -1,0 +1,5 @@
+{
+  "requiresAuth": true,
+  "jwtPrivateKey": "myKey",
+  "maxImageCount": 3
+}
